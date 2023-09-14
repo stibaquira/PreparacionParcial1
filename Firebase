@@ -1,0 +1,14 @@
+
+package com.mycompany.firebase;
+
+
+/**
+ *
+ * @author sebas
+ */
+public class Firebase {
+
+        public static void main(String[] args) {
+        ConexionFirebase.conectarFirebase();
+    }
+}
